@@ -1,0 +1,2 @@
+
+docker run -it -p 8888:8888 --name gdd -v ~/renminio/slides/GDD2017SH/codelab/:/notebooks/GDD tensorflow/tensorflow:nightly
